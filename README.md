@@ -1,8 +1,8 @@
 # Attention Mechanism Simulation
 
-This project implements a basic attention mechanism to demonstrate its functionality using a simple RGB matrix as an input. It includes steps for creating random matrices for RGB channels, computing attention weights, and applying the attention mechanism in a simulated environment.
+This notebook implements a basic attention mechanism to demonstrate its functionality using a simple RGB matrix as an input. It includes steps for creating random matrices for RGB channels, computing attention weights, and applying the attention mechanism in a simulated environment.
 
-## Project Overview
+## Notebook Overview
 
 This implementation demonstrates the following key steps of the attention mechanism:
 
