@@ -21,7 +21,7 @@ This implementation demonstrates the following key steps of the attention mechan
    ```
 2. Run the code in a Python environment or Jupyter notebook.
 
-## References
+## Resources
 
 - [Cross Attention | Method Explanation | Math Explained](https://youtu.be/aw3H-wPuRcw?si=5dcFiQghCMCpudTA)
 - [Visual Guide to Transformer Neural Networks - (Episode 2) Multi-Head & Self-Attention](https://youtu.be/mMa2PmYJlCo?si=pknw3h31wnvrlW1u)
